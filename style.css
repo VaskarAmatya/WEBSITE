@@ -1,3 +1,61 @@
+/* Whole page */
+body {
+    background-color: #111;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+
+/* Header */
+header {
+    background-color: #222;
+    padding: 20px;
+}
+
+
+/* Portfolio title */
+h1 {
+    text-align: center;
+    color: cyan;
+}
+
+
+/* Navigation list */
+ul {
+    text-align: center;
+}
+
+
+/* Navigation items */
+li {
+    display: inline;
+    margin: 20px;
+}
+
+
+/* Navigation links */
+a {
+    color: white;
+    text-decoration: none;
+}
+
+
+/* Home section */
+#Home {
+    text-align: center;
+    padding: 100px 20px;
+}
+
+
+/* Main heading */
+h3 {
+    font-size: 35px;
+}
+
+
+/* Paragraph */
 p {
-    color:rebeccapurple;
+    color: rebeccapurple;
+    font-size: 20px;
 }
